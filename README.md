@@ -1,3 +1,8 @@
+This is a Facebook Messenger clone using React, and hosting real-time database with Firebase.
+
+[Demo](https://facebook-messenger-clone-6796a.firebaseapp.com/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
